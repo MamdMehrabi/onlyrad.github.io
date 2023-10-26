@@ -1,0 +1,14 @@
+@font-face {
+	font-family: "vazir";
+	src: url("../fonts/vazir.ttf");
+}
+@font-face {
+	font-family: "ubuntu";
+	src: url("../fonts/ubuntu.ttf");
+}
+.fonts{
+  font-family: "vazir";
+}
+.en{
+  font-family: "ubuntu"
+}
